@@ -26,3 +26,6 @@ For more informations over it you can check the documentations bellow and explor
 An example is the pipelines, working with priority, run tasks in `process`, `main`, `async` and more.
 
 [Rocketry Documentation](https://rocketry.readthedocs.io/en/stable/)
+
+An example using it in real projects:
+[pokedollar_rocketry](https://github.com/Antonio-Gabriel/pokedollar_pipeline_rocketry)
